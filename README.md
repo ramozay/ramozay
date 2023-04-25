@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ramazan-yılmaz-25aa34262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramazan-yılmaz-25aa34262/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ramazanyz0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ramazanyz0/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ramozay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ramozay" height="30" width="40" /></a>
-<a href="https://discord.gg/ramozay#3430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ramozay#3430" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramazan-yılmaz-25aa34262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramazan-yılmaz-25aa34262/" height="30" width="40" /></a>
+<a href="https://instagram.com/ramazanyz0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramazanyz0/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ramozay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramozay" height="30" width="40" /></a>
+<a href="https://discord.gg/766753354092380170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="766753354092380170" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramozay&show_icons=true&locale=en&layout=compact" alt="ramozay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramozay&show_icons=true&locale=en" alt="ramozay" /></p>
+
